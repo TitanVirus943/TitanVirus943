@@ -28,20 +28,18 @@ I enjoy exploring security vulnerabilities, building tools, and learning how sys
 
 <br><br>
 
-<a href="https://www.facebook.com/tarikul.islam.629870">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<a href="https://www.facebook.com/tarikul.islam.629870" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="28" width="28"/>
 </a>
 
-<a href="https://www.instagram.com/__sha_jib__/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/__sha_jib__/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="28" width="28"/>
 </a>
 
 <a href="mailto:titanvirus2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="28" width="28"/>
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=TitanVirus943&style=for-the-badge&color=blue"/>
-
-</div>
