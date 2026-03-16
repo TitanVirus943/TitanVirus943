@@ -29,7 +29,7 @@ I enjoy exploring security vulnerabilities, building tools, and learning how sys
 <br><br>
 
 <a href="https://www.facebook.com/tarikul.islam.629870"> 
-<img src="[https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://www.vecteezy.com/png/42148655-facebook-logo-facebook-social-media-icon)"/> </a> 
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> 
 
 <a href="https://www.instagram.com/__sha_jib__/"> 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> 
