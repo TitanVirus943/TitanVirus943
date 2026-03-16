@@ -26,4 +26,19 @@ I enjoy exploring security vulnerabilities, building tools, and learning how sys
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitanVirus943&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br><br> <a href="https://www.facebook.com/tarikul.islam.629870"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.instagram.com/__sha_jib__/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:titanvirus2@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <br><br> <img src="https://komarev.com/ghpvc/?username=TitanVirus943&style=for-the-badge&color=blue"/> </div>
+<br><br>
+
+<a href="https://www.facebook.com/tarikul.islam.629870"> 
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> 
+
+<a href="https://www.instagram.com/__sha_jib__/"> 
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> 
+
+<a href="mailto:titanvirus2@gmail.com"> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
+
+<br><br> 
+
+<img src="https://komarev.com/ghpvc/?username=TitanVirus943&style=for-the-badge&color=blue"/> 
+
+</div>
