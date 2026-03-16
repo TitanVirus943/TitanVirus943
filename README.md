@@ -9,22 +9,22 @@ I enjoy exploring security vulnerabilities, building tools, and learning how sys
 
 ### Stuff I work with:
 
-<img src="https://img.shields.io/badge/HTML5-00aa55?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-00aa55?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-00aa55?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-00aa55?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00aa55?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-00aa55?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-00aa55?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-00aa55?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TitanVirus943&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TitanVirus943&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=TitanVirus943&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://nirzak-streak-stats.vercel.app/?user=TitanVirus943&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitanVirus943&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitanVirus943&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
@@ -39,5 +39,9 @@ I enjoy exploring security vulnerabilities, building tools, and learning how sys
 <a href="mailto:titanvirus2@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://visitcount.itsvg.in/api?id=TitanVirus943&icon=5&color=6"/>
 
 </div>
