@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕵🏻 Tarikul Islam
+# 🧑‍💻 Tarikul Islam
 
 Cybersecurity Student | Future Penetration Tester  
 I enjoy exploring security vulnerabilities, building tools, and learning how systems work under the hood.
