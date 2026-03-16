@@ -1,57 +1,67 @@
-# 💫 About Me:
-Hey! I'm **Tarikul Islam** — a Cybersecurity student and aspiring **Penetration Tester**.  
+<div align="center">
+
+# 👋 Tarikul Islam
+
+Cybersecurity Student | Future Penetration Tester  
 I enjoy exploring security vulnerabilities, building tools, and learning how systems work under the hood.
 
----
-
-# 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tarikul.islam.629870)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__sha_jib__/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:titanvirus2@gmail.com)
+</div>
 
 ---
 
-# 💻 Tech Stack:
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## 💻 Tech Stack
 
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
 
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
-
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
-![Bash Script](https://img.shields.io/badge/bash_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+</div>
 
 ---
 
-# 📊 GitHub Stats:
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=TitanVirus943&theme=tokyonight&hide_border=true&show_icons=true)
+## 📊 GitHub Contributions
 
-![](https://nirzak-streak-stats.vercel.app/?user=TitanVirus943&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TitanVirus943&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TitanVirus943&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://nirzak-streak-stats.vercel.app/?user=TitanVirus943&theme=tokyonight&hide_border=true"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitanVirus943&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=TitanVirus943&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
-### 👁 Profile Visitors
+<div align="center">
 
-![](https://visitcount.itsvg.in/api?id=TitanVirus943&icon=5&color=6)
+## 🌐 Connect With Me
+
+<a href="https://www.facebook.com/tarikul.islam.629870">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/__sha_jib__/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:titanvirus2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=TitanVirus943&icon=5&color=6"/>
+
+</div>
