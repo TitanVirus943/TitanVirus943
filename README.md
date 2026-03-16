@@ -34,6 +34,4 @@ I enjoy exploring security vulnerabilities, building tools, and learning how sys
 <a href="https://www.instagram.com/__sha_jib__/"> 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> 
 
-<a  style="margin: 10px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadman-alvee-haque" height="26" width="26" target="_blank"/></a>
-
 </div>
