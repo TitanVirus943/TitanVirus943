@@ -20,11 +20,11 @@ I enjoy exploring security vulnerabilities, building tools, and learning how sys
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TitanVirus943&show_icons=true&theme=nightowl&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TitanVirus943&show_icons=true&theme=algolia&hide_border=true"/>
 
 <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=TitanVirus943&theme=algolia&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitanVirus943&layout=compact&theme=neon&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitanVirus943&layout=compact&theme=nightowl&hide_border=true"/>
 
 <br><br>
 
