@@ -1,54 +1,57 @@
-<div align="center">
-
+# 💫 About Me:
 Hey! I'm **Tarikul Islam** — a Cybersecurity student and aspiring **Penetration Tester**.  
 I enjoy exploring security vulnerabilities, building tools, and learning how systems work under the hood.
 
-<br>
-<br>
+---
 
-### 🔐 Technologies & Tools I Work With
+# 🌐 Socials:
 
-<br>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tarikul.islam.629870)
 
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__sha_jib__/)
 
-<br>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:titanvirus2@gmail.com)
 
-### 🛡️ Cybersecurity & Networking Tools
+---
 
-<br>
+# 💻 Tech Stack:
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Kali](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kalilinux)
-![Nmap](https://img.shields.io/badge/Nmap-red?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<br>
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 GitHub Streak
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![](https://nirzak-streak-stats.vercel.app/?user=TitanVirus943&theme=dark-smoky&hide_border=false)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-</div>
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<div align="center">
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 
-### 🌐 Connect With Me
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
-<a href="https://linkedin.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="26" width="26"/>
-</a>
+![Bash Script](https://img.shields.io/badge/bash_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<a href="https://facebook.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="26" width="26"/>
-</a>
+---
 
-</div>
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=TitanVirus943&theme=tokyonight&hide_border=true&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=TitanVirus943&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TitanVirus943&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=TitanVirus943&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+### 👁 Profile Visitors
+
+![](https://visitcount.itsvg.in/api?id=TitanVirus943&icon=5&color=6)
