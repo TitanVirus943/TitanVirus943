@@ -37,8 +37,5 @@ I enjoy exploring security vulnerabilities, building tools, and learning how sys
 <a href="mailto:titanvirus2@gmail.com"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
 
-<br><br> 
-
-<img src="https://komarev.com/ghpvc/?username=TitanVirus943&style=for-the-badge&color=blue"/> 
-
+<br><br>
 </div>
