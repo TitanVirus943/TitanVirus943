@@ -22,7 +22,7 @@ I enjoy exploring security vulnerabilities, building tools, and learning how sys
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=TitanVirus943&show_icons=true&theme=nightowl&hide_border=true"/>
 
-<img height="170" src="https://nirzak-streak-stats.vercel.app/?user=TitanVirus943&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://nirzak-streak-stats.vercel.app/?user=TitanVirus943&theme=buefy&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitanVirus943&layout=compact&theme=vue-dark&hide_border=true"/>
 
