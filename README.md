@@ -42,6 +42,6 @@ I enjoy exploring security vulnerabilities, building tools, and learning how sys
 
 <br><br>
 
-<img src="https://visitcount.itsvg.in/api?id=TitanVirus943&icon=5&color=6"/>
+<img src="https://komarev.com/ghpvc/?username=TitanVirus943&style=for-the-badge&color=blue"/>
 
 </div>
