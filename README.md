@@ -118,6 +118,7 @@ $ cat about.txt
   CTF               HackTheBox / TryHackMe        [ ACTIVE ]
   REVERSE ENG.      Binary Analysis               [ LEARNING ]
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
 ```
 
 </div>
