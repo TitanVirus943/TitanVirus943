@@ -73,7 +73,7 @@ $ cat about.txt
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TitanVirus943&layout=compact&theme=tokyonight&hide_border=true"/>
+      <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TitanVirus943&layout=compact&theme=algolia&hide_border=true"/>
     </td>
   </tr>
 </table>
