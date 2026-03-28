@@ -107,20 +107,7 @@ $ cat about.txt
 
 ### ◼ KNOWN TARGETS
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  AREA              TARGET                       STATUS
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  WEB               OWASP Top 10 / SQLi / XSS    [ ACTIVE ]
-  NETWORK           Enumeration / Scanning        [ ACTIVE ]
-  RECON             OSINT / Passive Intel         [ ACTIVE ]
-  EXPLOITATION      Metasploit / Custom Scripts   [ ACTIVE ]
-  CTF               HackTheBox / TryHackMe        [ ACTIVE ]
-  REVERSE ENG.      Binary Analysis               [ LEARNING ]
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
-```
-
+<img src="known_targets.svg" width="70%"/>
 </div>
 
 ### 🌐 Connect With Me
