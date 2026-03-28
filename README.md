@@ -107,7 +107,7 @@ $ cat about.txt
 
 ### ◼ KNOWN TARGETS
 
-<img src="known_targets.svg" width="70%"/>
+<img src="known_targets.svg" width="80%"/>
 </div>
 
 ### 🌐 Connect With Me
